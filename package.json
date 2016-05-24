@@ -1,0 +1,28 @@
+{
+  "name": "multichain",
+  "version": "1.0.21",
+  "description": "A mirror of the multichain Linux x64 binaries as a npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+  	"multichaind": "./bin/multichaind",
+  	"multichain-cli": "./bin/multichain",
+  	"multichain-util": "./bin/multichain-util"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crazyquark/multichain.git"
+  },
+  "keywords": [
+    "multichain",
+    "binary"
+  ],
+  "author": "crazyquark",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/crazyquark/multichain/issues"
+  },
+  "homepage": "https://github.com/crazyquark/multichain#readme"
+}
