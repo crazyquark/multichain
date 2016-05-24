@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "directories": {
+  	"bin": "bin"
+  },
   "bin": {
   	"multichaind": "./bin/multichaind",
   	"multichain-cli": "./bin/multichain",
