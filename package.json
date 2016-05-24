@@ -11,7 +11,7 @@
   },
   "bin": {
   	"multichaind": "./bin/multichaind",
-  	"multichain-cli": "./bin/multichain",
+  	"multichain-cli": "./bin/multichain-cli",
   	"multichain-util": "./bin/multichain-util"
   },
   "repository": {
