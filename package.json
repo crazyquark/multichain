@@ -10,7 +10,7 @@
   	"multichaind": "./bin/multichaind",
   	"multichain-cli": "./bin/multichain",
   	"multichain-util": "./bin/multichain-util"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/crazyquark/multichain.git"
